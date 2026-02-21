@@ -1,0 +1,5 @@
+{
+  "name": "L'Artiste Gastronomique",
+  "description": "A premium dining experience blending traditional flavors with modern culinary art.",
+  "requestFramePermissions": ["geolocation"]
+}
