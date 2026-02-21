@@ -68,6 +68,30 @@ const MENU_ITEMS: FoodItem[] = [
     image: "https://images.unsplash.com/photo-1476124369491-e7addf5db371?auto=format&fit=crop&w=600&q=80",
     category: "Main Course"
   },
+  {
+    id: 9,
+    name: "Grilled Salmon Fillet",
+    price: "₹950",
+    description: "Fresh Atlantic salmon with lemon-herb butter and seasonal greens.",
+    image: "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=600&q=80",
+    category: "Main Course"
+  },
+  {
+    id: 10,
+    name: "Classic Beef Wellington",
+    price: "₹1450",
+    description: "Tender beef tenderloin wrapped in puff pastry with mushroom duxelles.",
+    image: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+    category: "Main Course"
+  },
+  {
+    id: 11,
+    name: "Thai Green Curry",
+    price: "₹550",
+    description: "Authentic spicy green curry with coconut milk and fresh vegetables.",
+    image: "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=600&q=80",
+    category: "Main Course"
+  },
   // Desserts
   {
     id: 5,
